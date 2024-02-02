@@ -9,5 +9,5 @@ Objectif du projet : Créez un modèle d'apprentissage profond capable de signal
 
 Outils : utilisation d'un modèle de Deep Learning afin de réaliser ces prédictions.
 
-_Bibiothèques: Tensorflow, Keras, Transformers, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding
-_
+_Bibiothèques: Tensorflow, Keras, Transformers, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding_
+
