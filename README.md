@@ -3,10 +3,11 @@
 
 ## AT&T Spam Detector
 
-Etude d'un dataset regroupant des mails ayant ensuite été classés en 2 catégories : spam our ham (non spam).
+L’un des principaux problèmes auxquels les utilisateurs d’AT&T sont confrontés est l’exposition constante aux messages SPAM.
 
 #### Objectif du projet : 
 
+Etude d'un dataset regroupant des mails ayant ensuite été classés en 2 catégories : spam our ham (non spam).
 Créez un modèle d'apprentissage profond capable de signaler automatiquement les spams en fonction du contenu des messages.
 
 #### Outils : 
