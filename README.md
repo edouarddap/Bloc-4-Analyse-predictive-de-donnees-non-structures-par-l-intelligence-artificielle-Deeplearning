@@ -3,7 +3,7 @@
 
 ## AT&T Spam Detector
 
-Etude d'un dataset regroupant des messages type sms recus par des clients AT&T ayant ensuite été classés en 2 catégories : spam our ham (non spam).
+Etude d'un dataset regroupant des mails ayant ensuite été classés en 2 catégories : spam our ham (non spam).
 
 #### Objectif du projet : 
 
