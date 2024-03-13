@@ -12,6 +12,8 @@ Outils : utilisation d'un modèle de Deep Learning afin de réaliser ces prédic
 _Bibiothèques: Tensorflow, Keras, Transformers, Natural Language Processing : Tokenization, Encoding, Lemmatization, Embedding_
 
 
+
+
 # SPAM detector
 # Company's Description 📇
 
